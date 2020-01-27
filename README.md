@@ -1,11 +1,5 @@
 # M2-Quadrant-Convexity-Descriptor
 
-## Training
-We have Datas/training.csv. The results of training using Weka
-
-## Test
-We test its classification capacity in different levels of noises. CSV files are found inside Gauss,S&P and Speckle
-
 ## Models
 Currently following models are available:
 - [`Q Convexity`](M2-Quadrant-Convexity-Descriptor-master/Qconvexity.py)
@@ -25,3 +19,9 @@ You can use sample script by
 ```
 python Qconvexity.py -ri ReferenceImage -i otherObject
 ```
+
+## Training
+We have Datas/training.csv. The results of training using Weka
+
+## Test
+We test its classification capacity in different levels of noises. CSV files are found inside Gauss,S&P and Speckle
