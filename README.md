@@ -1,7 +1,10 @@
 # M2-Quadrant-Convexity-Descriptor
 
-## Visit our webpage
-https://jethrodejesus5.wixsite.com/q-convexity?fbclid=IwAR0V-aQPghSolB00XLk8mA5nWWg4t0WfZq76iypnCNlYMrmcju5hdobs8Ik
+## Training
+We have Datas/training.csv. The results of training using Weka
+
+## Test
+We test its classification capacity in different levels of noises. CSV files are found inside Gauss,S&P and Speckle
 
 ## Models
 Currently following models are available:
